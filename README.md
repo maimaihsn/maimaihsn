@@ -1,10 +1,13 @@
 ### Welcome! 👋
 ✨My Website →→→ https://maimaistr.github.io/
 
-#My skills
-<img src="https://img.shields.io/badge/-Python-ffd700.svg?logo=python&style=flat-square%22%3E>
-<img src="https://img.shields.io/badge/-Javascript-4169e1.svg?logo=javascript&style=flat-square%22%3E>
-<img src="https://img.shields.io/badge/-Html5-696969.svg?logo=html5&style=flat-square%22%3E>
+# My skills
+
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
+<img src="https://img.shields.io/badge/-Python-ffd700.svg?logo=python&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Javascript-4169e1.svg?logo=javascript&style=flat-square">
+<img src="https://img.shields.io/badge/-Html5-808080.svg?logo=html5&style=flat-square">
+<img src="https://img.shields.io/badge/-Html5-696969.svg?logo=html5&style=flat-square">
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=maimaistr&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/maimaistr/)
