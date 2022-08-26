@@ -3,7 +3,7 @@
 
 ### My skills
 
-<img src="https://img.shields.io/badge/-Python-ffd700.svg?logo=python&style=flat-square"> <img src="https://img.shields.io/badge/-Javascript-4169e1.svg?logo=javascript&style=flat-square"> <img src="https://img.shields.io/badge/-Html5-696969.svg?logo=html5&style=flat-square"> <img src="https://img.shields.io/badge/-Css3-4169e1.svg?logo=html5&style=flat-square">
+<img src="https://img.shields.io/badge/-Python-ffd700.svg?logo=python&style=flat-square"> <img src="https://img.shields.io/badge/-Javascript-4169e1.svg?logo=javascript&style=flat-square"> <img src="https://img.shields.io/badge/-HTML5-696969.svg?logo=html5&style=flat-square"> <img src="https://img.shields.io/badge/-CSS3-4169e1.svg?logo=html5&style=flat-square">
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=maimaistr&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/maimaistr/)
