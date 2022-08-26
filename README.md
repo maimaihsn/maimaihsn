@@ -1,6 +1,9 @@
 ### Welcome! 👋
 ✨My Website →→→ https://maimaistr.github.io
 
+My skills
+<img src="https://img.shields.io/badge/-Python-ffd700.svg?logo=python&style=for-the-badge">
+
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=maimaistr&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/maimaistr/)
 
